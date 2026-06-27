@@ -10,9 +10,9 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Rakatosh)
 
-I'm a fullstack developer from Ukraine 🇺🇦, passionate about building scalable web applications from the ground up.
+I'm a fullstack developer from Ukraine 🇺🇦 who builds both **web and mobile applications** — from responsive interfaces to scalable backends.
 
-I love crafting clean APIs and smooth user interfaces — from database to deployment.
+Whether it's a modern web app or a cross-platform mobile solution, I handle the full cycle: design, development, and deployment.
 
 ## 🌐 My Projects
 
