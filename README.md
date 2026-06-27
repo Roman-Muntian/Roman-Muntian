@@ -1,14 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Roman%20Muntian&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Fullstack%20Developer%20%7C%20Web%20%26%20Mobile&amp;descAlignY=55&amp;descSize=16" />
-</p>
+<h1 align="center">Roman Muntian</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=7B61FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Fullstack+Developer+%F0%9F%9A%80;Web+%26+Mobile+Apps;Django+%7C+Next.js+%7C+Flutter;Open+to+collaboration!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Roman-Muntian&amp;style=flat-square&amp;color=7B61FF" alt="Profile views" />
+</p>
+
+---
+
 ## About me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Rakatosh)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&amp;logo=telegram&amp;logoColor=white)](https://t.me/Rakatosh)
 
 I'm a fullstack developer from Ukraine 🇺🇦 who builds both **web and mobile applications** — from responsive interfaces to scalable backends.
 
@@ -43,7 +47,3 @@ Whether it's a modern web app or a cross-platform mobile solution, I handle the 
     <img src="https://github-readme-stats.vercel.app/api?username=Roman-Muntian&amp;count_private=true&amp;show_icons=true&amp;theme=dracula&amp;hide_border=true&amp;bg_color=00000000" />
   </p>
 </details>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" />
-</p>
