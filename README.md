@@ -22,11 +22,11 @@ Whether it's a modern web app or a cross-platform mobile solution, I handle the 
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Languages & Core</h3>
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,postgres&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,js,dart,py,html,css,postgres,sqlite&perline=8" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,docker,git,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,fastapi,docker,git,linux,nginx&perline=8" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,postman,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,androidstudio&perline=7" />
     <br>
   </p>
 </details>
